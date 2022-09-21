@@ -1,7 +1,3 @@
-// import axios from "axios";
-// import React, { useEffect, useMemo, useState } from "react";
-// import { useSortBy, useTable } from "react-table";
-// import tw from "twin.macro";
 import React, { Component } from "react";
 import ReactTable from "react-table-6";
 import "react-table-6/react-table.css";
